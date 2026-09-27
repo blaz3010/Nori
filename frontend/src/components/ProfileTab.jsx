@@ -263,12 +263,12 @@ export default function ProfileTab({
                 </button>
               </span>
               
-              {user.email && (
+              {/*{user.email && (
                 <>
                   <span className="profile-details-label">Email:</span>
                   <span className="profile-details-value">{user.email}</span>
                 </>
-              )}
+              )}*/}
             </div>
           </div>
 
